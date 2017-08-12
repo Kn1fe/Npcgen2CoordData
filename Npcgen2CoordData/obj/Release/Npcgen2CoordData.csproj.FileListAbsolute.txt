@@ -1,0 +1,7 @@
+c:\users\kn1fe\documents\visual studio 2017\Projects\Npcgen2CoordData\Npcgen2CoordData\bin\Release\Npcgen2CoordData.exe
+c:\users\kn1fe\documents\visual studio 2017\Projects\Npcgen2CoordData\Npcgen2CoordData\bin\Release\Npcgen2CoordData.pdb
+c:\users\kn1fe\documents\visual studio 2017\Projects\Npcgen2CoordData\Npcgen2CoordData\obj\Release\Npcgen2CoordData.Form1.resources
+c:\users\kn1fe\documents\visual studio 2017\Projects\Npcgen2CoordData\Npcgen2CoordData\obj\Release\Npcgen2CoordData.Properties.Resources.resources
+c:\users\kn1fe\documents\visual studio 2017\Projects\Npcgen2CoordData\Npcgen2CoordData\obj\Release\Npcgen2CoordData.csproj.GenerateResource.Cache
+c:\users\kn1fe\documents\visual studio 2017\Projects\Npcgen2CoordData\Npcgen2CoordData\obj\Release\Npcgen2CoordData.exe
+c:\users\kn1fe\documents\visual studio 2017\Projects\Npcgen2CoordData\Npcgen2CoordData\obj\Release\Npcgen2CoordData.pdb
